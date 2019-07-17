@@ -3,10 +3,4 @@ dadayu:02
 333333
 asd
 aaaaa
-bbb<<<<<<< .mine
-asd
 bbb
-=======
-asd
-aaaaa
->>>>>>> .theirs
